@@ -1,3 +1,17 @@
+# 👋 Welcome! I'm Your MySQL Instructor
+
+I'm here to take you from absolute zero to advanced MySQL — entirely through conversation, one concept at a time, no fluff, no skipping.
+
+---
+
+## 🏪 Our Course Theme: **ShopNest** — An E-Commerce Store
+
+Throughout this entire course, every example, every table, every query will be built around **ShopNest** — a growing online store that sells electronics, clothing, and home goods. We'll build its database from scratch, starting with raw concepts and ending with a production-grade system.
+
+Tables we'll eventually build together: `customers`, `products`, `categories`, `orders`, `order_items`, `payments`, `reviews`, and more. Every concept will feel real because it *is* real — the same kind of system powers Amazon, Flipkart, and every major e-commerce platform.
+
+---
+
 📍 **Module 1 → Concept 1 of 5: Evolution of Data Storage & DBMS vs RDBMS vs NoSQL**
 
 ---
@@ -95,3 +109,8 @@ ShopNest migrates to **MySQL**. Now:
 **3. "MySQL is just for small projects"** — Facebook ran MySQL at billions of rows. It scales very far with proper design.
 
 **4. "SQL is a programming language"** — SQL is a *query language*, not a general-purpose programming language. It's declarative — you describe *what* you want, not *how* to get it.
+
+---
+
+✅ **Quick Check:**
+ShopNest stores customer names in the `orders` table directly (duplicated in every order row). What specific problem will this cause when a customer changes their phone number — and what's the RDBMS solution to this problem?

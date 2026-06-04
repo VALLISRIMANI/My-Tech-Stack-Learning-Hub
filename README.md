@@ -1,5 +1,4 @@
 ## My-Tech-Stack-Learning-Hub 💃🏻🗂️ 
-
 A personal knowledge base where I collect notes, concepts, examples, and quick references across the tech stack — all in one place.
 
 ---
@@ -25,11 +24,12 @@ This hub spans everything I'm learning and working with, including but not limit
 
 | Category | Topics |
 |---|---|
-| **Languages** | SQL, and more as I go |
+| **Languages** | SQL, Python, and more as I go |
 | **Version Control** | Git, GitHub workflows, branching, CI/CD |
 | **Databases** | MySQL, query patterns, schema design |
-| **Web** | HTML, CSS, backend frameworks, APIs |
-| **Tools & Concepts** | Terminal, data structures, algorithms, system design |
+| **Machine Learning** | Python libraries (NumPy, Pandas, Matplotlib, SciPy), data preprocessing, KNN, Decision Tree, Naive Bayes, Logistic Regression, SVM, MLP, Random Forest, AdaBoost, BBN, HMM |
+| **Web** | |
+| **Tools & Concepts** | |
 
 ---
 
